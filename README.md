@@ -109,12 +109,24 @@ I utilize a variety of project management tools depending on the client, team, a
 
 ## 📌 Featured Skills
 
-- 🎯 **Agile Coaching & Scrum Mastery**  
-- 🧭 **Strategic Roadmapping**  
-- 🏗️ **Systems & Process Optimization**  
-- 🔍 **Risk Management & Mitigation**  
-- 📈 **Analytics-Driven Decision Making**  
-- 💸 **Financial Planning & Budget Oversight**
+- **🎯 Agile Coaching & Scrum Mastery**
+- **🧭 Strategic Roadmapping**
+- **🏗️ Systems & Process Optimization**
+- **🔍 Risk Management & Mitigation**
+- **📈 Analytics-Driven Decision Making**
+- **💸 Financial Planning & Budget Oversight**
+- **🛠️ Cross-Functional Team Leadership**
+- **📊 KPI Development & Performance Tracking**
+- **🔗 Stakeholder Engagement & Communication**
+- **🧠 Change Management & Organizational Development**
+- **🚀 Product Lifecycle Management**
+- **🧪 Product Testing & Quality Assurance**
+- **🔌 API Integrations & Workflow Testing**
+- **🧰 Project Scoping & Requirements Gathering**
+- **🎨 High-Fidelity Wireframing & UX Collaboration**
+- **⏱️ Time & Resource Management**
+- **🌐 Digital Transformation Strategy**
+- **📚 Continuous Improvement & Learning Culture**
 
 ---
 
