@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Sylvia Mutheu 👋</h1>
+<p align="center">
+  <img src="https://img.freepik.com/premium-photo/young-woman-with-red-hair-sits-front-computer-wearing-headphones-looking-focused_255669-8305.jpg" width:100%; height:600px; object-fit:cover;"Cyberpunk Coder Girl"/><h1 align="center">Hi, I'm Sylvia Mutheu 👋</h1>
 
 <p align="center">
   🚀 Technical Project & Product Manager | Web3, Fintech & AI<br>
