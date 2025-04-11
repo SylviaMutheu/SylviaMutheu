@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sylvia Mutheu 👋</h1>
 
 <p align="center">
-  🚀 Technical Project & Product Manager | Web3, Fintech & AI<br>
+  🚀 Technical Project & Product Manager | Web3, Web2, SaaS, Fintech & AI<br>
   🧠 Driving End-to-End Product Delivery | Agile | Lean Systems | Strategy & Execution<br>
 </p>
 
